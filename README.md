@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexorcizet
 - 👀 I’m interested in world of coding 
-- 🌱 I’m currently learning the basics- HTML, CSS and later on ill go JS and some more.
+- 🌱 I’m currently learning the basics Via https://www.freecodecamp.org
 - 💞️ I’m looking to collaborate once I've learned enough and would like to get some feedback once I upload my works.
 - 📫 How to reach me - alexorcizet87@gmail.com
 
